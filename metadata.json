@@ -1,0 +1,6 @@
+{
+  "name": "Techfest 3D",
+  "description": "A 3D interactive website for Techfest with scroll animations and dynamic transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
